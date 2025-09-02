@@ -1,4 +1,4 @@
-# Thrifty Tech
+# Welcome to Thrifty Tech
 
 ## Intro
 This is the repo for storing all files used in publishing the portfolio website.
